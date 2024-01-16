@@ -1,1 +1,1 @@
-Este es un repositorio de mi homework de etiquetas html 
+Repositorio para la entrega de mi tarea de HTML del precurso de SOY HENRY
